@@ -40,7 +40,7 @@ function getGraphQLAPI() {
     return endpoints[network]
   }
 
-  return endpoints['5']
+  return endpoints['5'] // goerli
 }
 
 function fromPromise(promise, operation) {

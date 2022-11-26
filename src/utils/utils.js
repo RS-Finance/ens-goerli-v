@@ -100,8 +100,11 @@ export async function getEtherScanAddr() {
     case 4:
     case '4':
       return 'https://rinkeby.etherscan.io/'
-      case 421613:
-        case '421613':
+    case 5:
+    case '5':
+          return 'https://goerli.etherscan.io/'
+    case 421613:
+    case '421613':
           return 'https://goerli.arbiscan.io/'
     default:
       return 'https://etherscan.io/'

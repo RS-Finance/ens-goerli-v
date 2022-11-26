@@ -80,10 +80,10 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@ansdomain/ui@3.8.7":
-  version "3.8.7"
-  resolved "https://registry.yarnpkg.com/@ansdomain/ui/-/ui-3.8.7.tgz#fc6194f7a18e62cb6abed58eb54634197076abc9"
-  integrity sha512-MEfLYQ644r7YCyuwg+EQFqB/N0JVOMgT4oYmyRt8LlM1bHVzDjUv5E5zVfBa4dE7iJ/0hsQ3ldLx3v9kO54aJQ==
+"@ansdomain/ui@3.8.75":
+  version "3.8.75"
+  resolved "https://registry.yarnpkg.com/@ansdomain/ui/-/ui-3.8.75.tgz#4e99dbf3e2a5a77b37bf6405ffe227d10a39744d"
+  integrity sha512-2ltMG13YL2z2dHQhK4HVmEEzYavQ6PmVD4ffaI8M5Xw4IMZQIAumRyK7E/0+tT++u/gQeiyFkxT+i4JdeqHejw==
   dependencies:
     "@0xproject/utils" "^2.0.2"
     "@babel/plugin-proposal-class-properties" "^7.8.3"
