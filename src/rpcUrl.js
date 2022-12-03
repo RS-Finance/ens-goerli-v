@@ -1,1 +1,1 @@
-export const rpcUrl = 'https://eth-goerli.g.alchemy.com/v2/3og7A3CGNp5X0m0wLF9qH0K8jxx24MDP'
+export const rpcUrl = 'https://goerli.infura.io/v3/0722a322db3e472881be79bebc2e994c'

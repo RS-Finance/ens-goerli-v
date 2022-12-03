@@ -25,7 +25,7 @@ const endpoints = {
   '1': 'https://api.thegraph.com/subgraphs/name/ensdomains/ens',
   '3': 'https://api.thegraph.com/subgraphs/name/ensdomains/ensropsten',
   '4': 'https://api.thegraph.com/subgraphs/name/ensdomains/ensrinkeby',
-  '5': 'https://api.thegraph.com/subgraphs/name/ansdomain/goerli',
+  '5': 'https://api.thegraph.com/subgraphs/name/ansdomain/testnet-subgraph',
   '421613': 'https://api.thegraph.com/subgraphs/name/ansdomain/arb-goerli'
 }
 

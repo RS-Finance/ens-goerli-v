@@ -38,13 +38,13 @@ export const setSubDomainFavourites = () => {
 
 export const isSupportedNetwork = networkId => {
   switch (networkId) {
-    case 1:
-    case 3:
-    case 4:
+    // case 1:
+    // case 3:
+    // case 4:
     case 5:  // goerli
-    case 421613: // arb g
-    case 1337:
-    case 31337:
+    // case 421613: // arb g
+    // case 1337:
+    // case 31337:
       return true
     default:
       return false
